@@ -1,0 +1,77 @@
+﻿@model List<SimpleChat.Web.Models.MessageModel>
+
+@{
+    ViewData["Title"] = "Index";
+    var userName = User.Identity.Name;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Html.AntiForgeryToken()
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Welcome to the Chat Room: <strong style="color:cornflowerblue"> @userName</strong></h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12" id="chat" style="height: 500px;background-color: aliceblue;overflow-y: scroll;">
+        @if (Model.Count > 0)
+        {
+            <ul>
+
+
+                @foreach (var message in Model.OrderBy(x => x.When))
+                {
+                    <li>
+                        <strong>@message.UserName &nbsp; @message.When.ToString("ddd MMM dd hh:mm:ss tt") says: </strong> @message.Text
+                    </li>
+
+                }
+            </ul>
+        }
+
+    </div>
+    <div class="col-md-12">
+
+        <div class="form-group">
+            <input type="text" name="text" class="form-control" id="messageText" placeholder="Write something nice here" />
+        </div>
+        <div class="form-group">
+            <button type="button" id="btnSend" class="btn btn-primary">Send Message</button>
+        </div>
+    </div>
+</div>
+ 
+
+<script type="text/javascript">
+
+
+var connection = new signalR.HubConnectionBuilder().withUrl("/chatHub").build();
+
+    //Disable send button until connection is established
+    document.getElementById("btnSend").disabled = true;
+
+    connection.on("ReceiveMessage", function (user, message, date) {
+
+        var d = new Date(date);
+
+        $('#chat').append("<li> <strong>"+user+" at " + d.toDateString() +" " +  d.toLocaleTimeString() +" says: </strong> "+message+" </li>")
+    });
+
+    connection.start().then(function () {
+        document.getElementById("btnSend").disabled = false;
+    }).catch(function (err) {
+        return console.error(err.toString());
+    });
+
+    document.getElementById("btnSend").addEventListener("click", function (event) {
+
+        var user =  '@userName';
+        var message = document.getElementById("messageText").value;
+        $.post("/Chat/Create", { text: message }, function () { $('#messageText').val("");  });
+        connection.invoke("SendMessage", user, message).catch(function (err) {
+            return console.error(err.toString());
+        });
+        event.preventDefault();
+    });
+</script>

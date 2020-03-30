@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SampleChat.Entities\bin\Debug\netcoreapp3.1\SampleChat.Entities.deps.json
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SampleChat.Entities\bin\Debug\netcoreapp3.1\SampleChat.Entities.dll
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SampleChat.Entities\bin\Debug\netcoreapp3.1\SampleChat.Entities.pdb
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SampleChat.Entities\obj\Debug\netcoreapp3.1\SampleChat.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SampleChat.Entities\obj\Debug\netcoreapp3.1\SampleChat.Entities.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SampleChat.Entities\obj\Debug\netcoreapp3.1\SampleChat.Entities.dll
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SampleChat.Entities\obj\Debug\netcoreapp3.1\SampleChat.Entities.pdb

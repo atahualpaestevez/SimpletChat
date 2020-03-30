@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SimpleChat.MiddleWare\bin\Debug\netcoreapp3.1\SimpleChat.MiddleWare.deps.json
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SimpleChat.MiddleWare\bin\Debug\netcoreapp3.1\SimpleChat.MiddleWare.dll
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SimpleChat.MiddleWare\obj\Debug\netcoreapp3.1\SimpleChat.MiddleWare.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SimpleChat.MiddleWare\obj\Debug\netcoreapp3.1\SimpleChat.MiddleWare.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SimpleChat.MiddleWare\obj\Debug\netcoreapp3.1\SimpleChat.MiddleWare.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SimpleChat.MiddleWare\bin\Debug\netcoreapp3.1\SimpleChat.MiddleWare.pdb
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SimpleChat.MiddleWare\bin\Debug\netcoreapp3.1\SimpleChat.Persistence.dll
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SimpleChat.MiddleWare\bin\Debug\netcoreapp3.1\SimpleChat.Persistence.pdb
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SimpleChat.MiddleWare\obj\Debug\netcoreapp3.1\SimpleChat.MiddleWare.csproj.CopyComplete
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SimpleChat.MiddleWare\obj\Debug\netcoreapp3.1\SimpleChat.MiddleWare.dll
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SimpleChat.MiddleWare\obj\Debug\netcoreapp3.1\SimpleChat.MiddleWare.pdb
