@@ -10135,11 +10135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.Test\\SimpleChat.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.Test\\SimpleChat.Test.csproj",
       "projectName": "SimpleChat.Test",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.Test\\SimpleChat.Test.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.Test\\SimpleChat.Test.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.Test\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -10160,8 +10160,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.Web\\SimpleChat.Web.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.Web\\SimpleChat.Web.csproj"
+            "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.Web\\SimpleChat.Web.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.Web\\SimpleChat.Web.csproj"
             }
           }
         }
@@ -10208,7 +10208,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

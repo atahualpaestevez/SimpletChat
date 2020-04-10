@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat\SimpleChat.Repository\bin\Debug\netcoreapp3.1\SimpleChat.Repository.deps.json
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat\SimpleChat.Repository\bin\Debug\netcoreapp3.1\SimpleChat.Repository.dll
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat\SimpleChat.Repository\obj\Debug\netcoreapp3.1\SimpleChat.Repository.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat\SimpleChat.Repository\obj\Debug\netcoreapp3.1\SimpleChat.Repository.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat\SimpleChat.Repository\obj\Debug\netcoreapp3.1\SimpleChat.Repository.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat\SimpleChat.Repository\obj\Debug\netcoreapp3.1\SimpleChat.Repository.csproj.CoreCompileInputs.cache

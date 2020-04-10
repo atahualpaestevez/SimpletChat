@@ -6,3 +6,12 @@ C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SimpleChat.Persistence\bi
 C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SimpleChat.Persistence\obj\Debug\netcoreapp3.1\SimpleChat.Persistence.dll
 C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SimpleChat.Persistence\obj\Debug\netcoreapp3.1\SimpleChat.Persistence.pdb
 C:\Users\Admin\source\repos\SimpletChat\SimpleChat.Web\SimpleChat.Persistence\obj\Debug\netcoreapp3.1\SimpleChat.Persistence.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat\SimpleChat.Persistence\bin\Debug\netcoreapp3.1\SimpleChat.Persistence.deps.json
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat\SimpleChat.Persistence\bin\Debug\netcoreapp3.1\SimpleChat.Persistence.dll
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat\SimpleChat.Persistence\bin\Debug\netcoreapp3.1\SimpleChat.Persistence.pdb
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat\SimpleChat.Persistence\obj\Debug\netcoreapp3.1\SimpleChat.Persistence.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat\SimpleChat.Persistence\obj\Debug\netcoreapp3.1\SimpleChat.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat\SimpleChat.Persistence\obj\Debug\netcoreapp3.1\SimpleChat.Persistence.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat\SimpleChat.Persistence\obj\Debug\netcoreapp3.1\SimpleChat.Persistence.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat\SimpleChat.Persistence\obj\Debug\netcoreapp3.1\SimpleChat.Persistence.dll
+C:\Users\Admin\source\repos\SimpletChat\SimpleChat\SimpleChat.Persistence\obj\Debug\netcoreapp3.1\SimpleChat.Persistence.pdb

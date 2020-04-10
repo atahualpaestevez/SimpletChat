@@ -16,16 +16,18 @@ namespace SimpleChat.Web.Controllers
         private readonly SignInManager<IdentityUser> _singInManager;
 
         public HomeController(
-            UserManager<IdentityUser> userManager ,
+            UserManager<IdentityUser> userManager,
             SignInManager<IdentityUser> signInManager)
         {
             _userManager = userManager;
             _singInManager = signInManager;
         }
 
+
         public IActionResult Index()
         {
-            if (User.Identity.Name == null)
+            
+            if (User == null)
             {
                 return View();
             }

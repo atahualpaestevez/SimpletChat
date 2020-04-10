@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.Persistence\\SimpleChat.Persistence.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.Persistence\\SimpleChat.Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.Persistence\\SimpleChat.Persistence.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.Persistence\\SimpleChat.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.Persistence\\SimpleChat.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.Persistence\\SimpleChat.Persistence.csproj",
         "projectName": "SimpleChat.Persistence",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.Persistence\\SimpleChat.Persistence.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.Persistence\\SimpleChat.Persistence.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8828,11 +8828,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.Web\\SimpleChat.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.Web\\SimpleChat.Web.csproj",
       "projectName": "SimpleChat.Web",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.Web\\SimpleChat.Web.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.Web\\SimpleChat.Web.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.Web\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -8853,11 +8853,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.MiddleWare\\SimpleChat.MiddleWare.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.MiddleWare\\SimpleChat.MiddleWare.csproj"
+            "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.MiddleWare\\SimpleChat.MiddleWare.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.MiddleWare\\SimpleChat.MiddleWare.csproj"
             },
-            "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.Persistence\\SimpleChat.Persistence.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.Persistence\\SimpleChat.Persistence.csproj"
+            "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.Persistence\\SimpleChat.Persistence.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.Persistence\\SimpleChat.Persistence.csproj"
             }
           }
         }
@@ -8916,7 +8916,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

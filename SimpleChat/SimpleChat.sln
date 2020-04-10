@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleChat.Persistence", "S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleChat.MiddleWare", "SimpleChat.MiddleWare\SimpleChat.MiddleWare.csproj", "{2AD40A83-2799-4B14-AF92-87CA975BFC6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleChat.Test", "SimpleChat.Test\SimpleChat.Test.csproj", "{F0007FF6-07E0-44C6-AF60-2E44A7E2BD61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleChat.Test", "SimpleChat.Test\SimpleChat.Test.csproj", "{F0007FF6-07E0-44C6-AF60-2E44A7E2BD61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -5388,11 +5388,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.MiddleWare\\SimpleChat.MiddleWare.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.MiddleWare\\SimpleChat.MiddleWare.csproj",
       "projectName": "SimpleChat.MiddleWare",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.MiddleWare\\SimpleChat.MiddleWare.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.MiddleWare\\SimpleChat.MiddleWare.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.MiddleWare\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.MiddleWare\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5413,8 +5413,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.Persistence\\SimpleChat.Persistence.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat.Web\\SimpleChat.Persistence\\SimpleChat.Persistence.csproj"
+            "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.Persistence\\SimpleChat.Persistence.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\SimpletChat\\SimpleChat\\SimpleChat.Persistence\\SimpleChat.Persistence.csproj"
             }
           }
         }
@@ -5448,7 +5448,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
